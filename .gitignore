@@ -1,2 +1,6 @@
 /composer
 /autoload.php
+/.project
+/vendor
+update.php
+/.idea
