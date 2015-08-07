@@ -1,0 +1,6 @@
+07 Aug 2015
+-----------
+
+Tradução:
+Fix bug: #00001 (Teste 001).
+Adcionado funcionalidade: #000452 (Enviar emails).
