@@ -4,3 +4,9 @@
 Tradução:
 Fix bug: #00001 (Teste 001).
 Adcionado funcionalidade: #000452 (Enviar emails).
+
+08 Aug 2015
+-----------
+
+Tradução:
+Adcionado novo arquivo: #000452 (novo.html).
