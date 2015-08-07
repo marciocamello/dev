@@ -9,4 +9,10 @@ Adcionado funcionalidade: #000452 (Enviar emails).
 -----------
 
 Tradução:
-Adcionado novo arquivo: #000452 (novo.html).
+Adcionado novo arquivo: #000482 (novo.html).
+
+09 Aug 2015
+-----------
+
+Tradução:
+Alterado index.html: #0004452 (Update 005).
